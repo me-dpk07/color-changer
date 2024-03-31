@@ -1,0 +1,38 @@
+html{
+    margin:0
+}
+
+span{
+    display: block;
+}
+
+.color{
+    margin: 80px auto 100px;
+    text-align: center;
+    width: 80%;
+}
+
+.button{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border: 2px solid black;
+
+}
+
+#green{
+    background: green;
+
+}
+#grey{
+    background: grey;
+
+}
+#blue{
+    background: blue;
+
+}
+#pink{
+    background: pink;
+
+}
